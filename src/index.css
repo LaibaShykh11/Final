@@ -1,13 +1,35 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.text-navbar {
+  color: white;
+}
+.dropdown-section {
+  color: white;
+}
+.text-heading {
+  font-size: 4rem;
+  padding: 10px;
+  margin-left: 1rem;
+  margin-top: 10px;
+}
+.text-subheading {
+  font-size: 2rem;
+  padding: 10px;
+  margin-left: 1rem;
+  margin-top: 10px;
+}
+.projects-section {
+  background-color: #464343;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  max-width: 100%; /* Make the image responsive within its container */
+  height: auto; /* Maintain the aspect ratio of the image */
+  display: block; /* Remove default image spacing */
+  margin: 0 auto; /* Center the image horizontally */
+  max-height: 400px; /* Set a maximum height for the image if needed */
 }
