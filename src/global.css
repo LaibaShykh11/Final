@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --label-01: Inter;
+
+  /* font sizes */
+  --label-01-size: 22px;
+  --paragraph-02-size: 18px;
+  --label-02-size: 16px;
+  --font-size-71xl: 90px;
+  --font-size-13xl: 32px;
+  --font-size-46xl: 65px;
+  --font-size-xl: 20px;
+  --font-size-11xl: 30px;
+  --paragraph-04-size: 14px;
+  --display-02-size: 56px;
+  --font-size-xs-7: 11.7px;
+  --font-size-sm-1: 13.1px;
+
+  /* Colors */
+  --base-01: #000;
+  --color-darkslateblue-100: #6f348e;
+  --dark: #18214d;
+  --color-whitesmoke-100: #f9f9f9;
+  --color-whitesmoke-200: #f8f8f8;
+  --placeholder: #eff2f6;
+  --white: #fff;
+  --primary: #345eee;
+  --color-crimson: #ee3465;
+  --color-gray-100: #909090;
+  --color-gray-200: #1f1f21;
+  --color-gray-300: #191b1f;
+  --color-gray-400: #1a1a1a;
+  --color-gray-500: #0e0e0e;
+  --color-gray-600: #110915;
+  --color-gray-700: rgba(255, 255, 255, 0.7);
+  --color-gray-800: rgba(255, 255, 255, 0.25);
+  --color-gray-900: rgba(255, 255, 255, 0.6);
+  --color-gray-1000: rgba(255, 255, 255, 0.9);
+  --color-gray-1100: rgba(255, 255, 255, 0.4);
+  --color-darkgray: #979797;
+  --color-gainsboro-100: #e7e6e7;
+  --neutral: #dfe4ea;
+  --color-deepskyblue: #18ade4;
+  --paragraph: #3e4462;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-421xl: 440px;
+  --br-7xs-8: 5.8px;
+  --br-10xs-9: 2.9px;
+}

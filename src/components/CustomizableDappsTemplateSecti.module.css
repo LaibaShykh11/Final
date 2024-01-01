@@ -1,0 +1,248 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 59.6px;
+  width: 1182.5px;
+  height: 1285.8px;
+  object-fit: contain;
+}
+.groupItem {
+  top: 24px;
+  left: 0;
+  width: 1231.2px;
+  height: 1247.5px;
+}
+.canBeChanged {
+  margin: 0;
+}
+.buildingBetterWorkContainer {
+  position: absolute;
+  height: 54.32%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -2.4px;
+  line-height: 74px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.emailMarketing,
+.emailMarketing1,
+.emailMarketing2,
+.emailMarketing3,
+.emailMarketing4,
+.emailMarketing5 {
+  position: absolute;
+  width: 79.83%;
+  top: calc(50% - 125px);
+  left: 20.17%;
+  letter-spacing: -0.55px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+}
+.emailMarketing1,
+.emailMarketing2,
+.emailMarketing3,
+.emailMarketing4,
+.emailMarketing5 {
+  width: 10.36%;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-deepskyblue);
+}
+.emailMarketing2,
+.emailMarketing3,
+.emailMarketing4,
+.emailMarketing5 {
+  width: 11.76%;
+  top: calc(50% - 70px);
+}
+.emailMarketing3,
+.emailMarketing4,
+.emailMarketing5 {
+  top: calc(50% - 15px);
+}
+.emailMarketing4,
+.emailMarketing5 {
+  width: 12.89%;
+  top: calc(50% + 40px);
+}
+.emailMarketing5 {
+  width: 11.76%;
+  top: calc(50% + 95px);
+}
+.emailMarketing6,
+.emailMarketing7,
+.emailMarketing8,
+.emailMarketing9 {
+  position: absolute;
+  width: 79.83%;
+  top: calc(50% - 70px);
+  left: 20.17%;
+  letter-spacing: -0.55px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+}
+.emailMarketing7,
+.emailMarketing8,
+.emailMarketing9 {
+  top: calc(50% - 15px);
+}
+.emailMarketing8,
+.emailMarketing9 {
+  top: calc(50% + 40px);
+}
+.emailMarketing9 {
+  top: calc(50% + 95px);
+}
+.buttonText,
+.emailMarketingParent {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.emailMarketingParent {
+  top: calc(50% - 172.4px);
+  right: 0;
+  height: 250px;
+}
+.buttonText {
+  top: 30.12%;
+  letter-spacing: -0.4px;
+  font-weight: 600;
+  display: inline-block;
+}
+.elementsButtonsOutlineParent {
+  position: absolute;
+  height: 14.44%;
+  width: 51.18%;
+  top: 85.56%;
+  right: 48.82%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--label-02-size);
+  color: var(--color-whitesmoke-100);
+}
+.groupDiv {
+  position: absolute;
+  width: 76.77%;
+  top: calc(50% + 78.6px);
+  right: 23.23%;
+  left: 0;
+  height: 344.8px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkgray);
+}
+.groupContainer,
+.groupWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupWrapper {
+  height: 65.86%;
+  width: 28.21%;
+  top: 18.04%;
+  bottom: 16.1%;
+  left: 71.79%;
+}
+.groupInner {
+  position: absolute;
+  top: 193px;
+  left: 238.6px;
+  width: 855px;
+  height: 925px;
+  object-fit: cover;
+}
+.groupChild1,
+.groupChild2,
+.rectangleIcon {
+  position: absolute;
+  top: 371px;
+  left: 341.6px;
+  border-radius: var(--br-9xs);
+  width: 276px;
+  height: 162px;
+  object-fit: cover;
+}
+.groupChild1,
+.groupChild2 {
+  top: 349px;
+  left: 703.6px;
+}
+.groupChild2 {
+  top: 741px;
+}
+.base,
+.iconColor {
+  position: absolute;
+  right: 0;
+}
+.base {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 5.83px;
+  background-color: var(--color-darkslateblue-100);
+}
+.iconColor {
+  height: 62.86%;
+  width: 12.78%;
+  top: 21.43%;
+  bottom: 15.71%;
+  left: 87.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.buttonText1 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: 0;
+  letter-spacing: -0.29px;
+  font-weight: 600;
+}
+.baseParent,
+.iconColorParent {
+  position: absolute;
+  height: 36.75%;
+  width: 57.73%;
+  top: 31.5%;
+  right: 20.99%;
+  bottom: 31.76%;
+  left: 21.28%;
+}
+.baseParent {
+  height: 2.96%;
+  width: 8.55%;
+  top: 47.67%;
+  right: 70.73%;
+  bottom: 49.36%;
+  left: 20.72%;
+  text-align: right;
+  font-size: var(--font-size-xs-7);
+  color: var(--white);
+}
+.groupParent {
+  position: absolute;
+  top: 3087px;
+  left: -65.6px;
+  width: 1648.6px;
+  height: 1285.8px;
+  text-align: left;
+  font-size: var(--font-size-46xl);
+  color: var(--color-gray-400);
+  font-family: var(--label-01);
+}

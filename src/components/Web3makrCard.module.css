@@ -1,0 +1,157 @@
+.iconsRemove {
+  position: absolute;
+  height: 7.32%;
+  width: 2.16%;
+  top: 17.68%;
+  right: 2.34%;
+  bottom: 75%;
+  left: 95.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.web3makrProvidesA {
+  margin: 0;
+}
+.createScreensDirecContainer {
+  position: absolute;
+  height: 72.87%;
+  width: 62.64%;
+  top: 27.13%;
+  left: 0.1%;
+  letter-spacing: -0.2px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+}
+.whyShouldI {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 28px;
+  font-weight: 600;
+  color: var(--color-gray-400);
+  display: flex;
+  align-items: center;
+  width: 384.8px;
+}
+.divider {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--neutral);
+  height: 1px;
+}
+.div,
+.divider,
+.iconsPlus {
+  position: absolute;
+}
+.div {
+  height: 55.78%;
+  width: 100%;
+  top: 18.71%;
+  right: 0;
+  bottom: 25.51%;
+  left: 0;
+  color: var(--color-darkgray);
+}
+.iconsPlus {
+  height: 21.62%;
+  width: 2.16%;
+  top: 40.54%;
+  right: 2.34%;
+  bottom: 37.84%;
+  left: 95.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.divider1 {
+  position: absolute;
+  width: 100%;
+  top: 110px;
+  right: 0;
+  left: 0;
+  background-color: var(--neutral);
+  height: 1px;
+}
+.whatIsWeb3makr {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  letter-spacing: -0.5px;
+  line-height: 28px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 523px;
+}
+.div1,
+.iconsPlus1 {
+  position: absolute;
+  height: 18.88%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 81.12%;
+  left: 0;
+}
+.iconsPlus1 {
+  height: 21.82%;
+  width: 2.16%;
+  top: 40.91%;
+  right: 2.34%;
+  bottom: 37.27%;
+  left: 95.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.divider3 {
+  position: absolute;
+  width: 100%;
+  top: 109px;
+  right: 0;
+  left: 0;
+  background-color: var(--neutral);
+  height: 1px;
+}
+.whatIsWeb3makr1 {
+  position: absolute;
+  top: 41px;
+  left: 1px;
+  letter-spacing: -0.5px;
+  line-height: 28px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 523px;
+}
+.div2,
+.parent {
+  position: absolute;
+  height: 18.71%;
+  width: 100%;
+  top: 81.29%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.parent {
+  height: 5.93%;
+  width: 47.4%;
+  top: 71.51%;
+  right: 10.01%;
+  bottom: 22.56%;
+  left: 42.59%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-400);
+  font-family: var(--label-01);
+}

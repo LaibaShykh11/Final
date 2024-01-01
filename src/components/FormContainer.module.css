@@ -1,0 +1,56 @@
+.createScreensDirec {
+  position: absolute;
+  height: 9.5%;
+  width: 83.41%;
+  top: 72.88%;
+  left: 0;
+  letter-spacing: -0.3px;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+}
+.buttonText,
+.frequentlyAskedQuestions {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.frequentlyAskedQuestions {
+  height: 68.46%;
+  top: 0;
+  font-size: var(--font-size-71xl);
+  letter-spacing: -2.4px;
+  line-height: 100px;
+  color: var(--color-gray-400);
+}
+.buttonText {
+  top: 30.12%;
+  letter-spacing: -0.4px;
+}
+.elementsButtonsOutlineParent {
+  position: absolute;
+  height: 11%;
+  width: 42.1%;
+  top: 89%;
+  right: 57.9%;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: var(--label-02-size);
+  color: var(--color-whitesmoke-100);
+}
+.createScreensDirecParent {
+  position: absolute;
+  height: 84.79%;
+  width: 32.98%;
+  top: 7.68%;
+  right: 0;
+  bottom: 7.53%;
+  left: 67.02%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkgray);
+  font-family: var(--label-01);
+}

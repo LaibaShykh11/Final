@@ -1,0 +1,154 @@
+.base {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--placeholder);
+}
+.rec {
+  top: calc(50% - 6px);
+  left: calc(50% - 143.5px);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson);
+  width: 9.9px;
+  height: 106px;
+}
+.rec,
+.rec1,
+.rec2 {
+  position: absolute;
+}
+.rec1 {
+  top: calc(50% - 9px);
+  left: calc(50% - 20.8px);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson);
+  width: 9.9px;
+  height: 109px;
+}
+.rec2 {
+  top: calc(50% + 55px);
+  left: calc(50% - 82.1px);
+  height: 45px;
+}
+.rec2,
+.rec3,
+.rec4 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson);
+  width: 9.9px;
+}
+.rec3 {
+  position: absolute;
+  top: calc(50% - 3px);
+  left: calc(50% + 40.6px);
+  height: 103px;
+}
+.rec4 {
+  top: calc(50% - 48px);
+  left: calc(50% + 101.9px);
+  height: 148px;
+}
+.rec4,
+.rec5,
+.rec6 {
+  position: absolute;
+}
+.rec5 {
+  top: calc(50% - 64px);
+  left: calc(50% - 112.8px);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson);
+  width: 9.9px;
+  height: 164px;
+}
+.rec6 {
+  top: calc(50% + 47px);
+  left: calc(50% + 9.9px);
+  height: 53px;
+}
+.rec6,
+.rec7,
+.rec8 {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson);
+  width: 9.9px;
+}
+.rec7 {
+  position: absolute;
+  top: calc(50% - 79px);
+  left: calc(50% - 51.5px);
+  height: 179px;
+}
+.rec8 {
+  top: calc(50% - 100px);
+  left: calc(50% + 71.3px);
+  height: 200px;
+}
+.activ,
+.rec8,
+.rec9 {
+  position: absolute;
+}
+.rec9 {
+  top: calc(50% + 26px);
+  left: calc(50% + 133.6px);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-crimson);
+  width: 9.9px;
+  height: 74px;
+}
+.activ {
+  top: calc(50% - 30px);
+  left: calc(50% - 145px);
+  width: 287px;
+  height: 200px;
+}
+.elementsButtonsIcon32 {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.checkOutEach,
+.totalSales {
+  position: absolute;
+  left: 8.57%;
+}
+.checkOutEach {
+  width: 56.86%;
+  top: 15.25%;
+  letter-spacing: -0.3px;
+  line-height: 26px;
+  display: inline-block;
+}
+.totalSales {
+  top: 28px;
+  font-size: var(--label-01-size);
+  letter-spacing: -0.55px;
+  line-height: 30px;
+  font-weight: 600;
+}
+.widget {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.elementsWidgetsWidget01 {
+  width: 350px;
+  height: 400px;
+  text-align: left;
+  font-size: var(--paragraph-02-size);
+  color: var(--dark);
+  font-family: var(--label-01);
+}

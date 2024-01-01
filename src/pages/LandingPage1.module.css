@@ -1,0 +1,183 @@
+.landingPage1Child {
+  position: absolute;
+  top: 9663px;
+  left: 0;
+  width: 1728px;
+  height: 259.2px;
+  object-fit: cover;
+}
+.landingPage1Item {
+  position: absolute;
+  top: 774px;
+  left: 3169.8px;
+  border-radius: 18px;
+  background-color: #aa58aa;
+  width: 83.4px;
+  height: 87.6px;
+  transform: rotate(33.94deg);
+  transform-origin: 0 0;
+}
+.landingPage1Inner {
+  position: absolute;
+  top: -0.5px;
+  left: 2829.5px;
+  border-right: 1px solid #222;
+  box-sizing: border-box;
+  width: 1px;
+  height: 82px;
+}
+.createScreensDirec,
+.frequentlyAskedQuestions {
+  position: absolute;
+  height: 1.27%;
+  width: 28.24%;
+  top: 73.15%;
+  left: 9.9%;
+  letter-spacing: -0.3px;
+  line-height: 40px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frequentlyAskedQuestions {
+  height: 1.6%;
+  width: 29.17%;
+  top: 71.51%;
+  font-size: var(--font-size-46xl);
+  letter-spacing: -2.4px;
+  line-height: 74px;
+  font-weight: 600;
+  color: var(--color-gray-400);
+}
+.groupChild,
+.groupIcon,
+.maskGroupIcon,
+.rectangleDiv {
+  position: absolute;
+  top: 4380px;
+  left: 1px;
+  width: 1728px;
+  height: 1295px;
+}
+.rectangleDiv {
+  background-color: var(--color-gray-600);
+}
+.groupChild,
+.groupIcon,
+.maskGroupIcon {
+  object-fit: cover;
+}
+.groupChild,
+.groupIcon {
+  top: 9663px;
+  left: 0;
+  width: 1732px;
+  height: 244px;
+}
+.groupChild {
+  top: 0;
+  width: 762px;
+  height: 534px;
+}
+.groupParent {
+  position: absolute;
+  height: 5.39%;
+  width: 76.16%;
+  top: 90.46%;
+  right: 11.92%;
+  bottom: 4.15%;
+  left: 11.92%;
+}
+.frequentlyAskedQuestions1 {
+  position: absolute;
+  width: 25.98%;
+  top: 91.17%;
+  left: 19.39%;
+  font-size: var(--font-size-71xl);
+  letter-spacing: -2.4px;
+  line-height: 100px;
+  font-weight: 600;
+  color: #fefefe;
+  display: inline-block;
+}
+.frameIcon {
+  position: absolute;
+  top: 2152px;
+  left: 658px;
+  width: 1043px;
+  height: 1007px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.landingPage1Child1,
+.landingPage1Child2 {
+  position: absolute;
+  top: 1791px;
+  left: 339px;
+  width: 188.9px;
+  height: 58.5px;
+  object-fit: cover;
+}
+.landingPage1Child2 {
+  left: 1389px;
+  width: 167.2px;
+}
+.landingPage1Child3,
+.landingPage1Child4,
+.landingPage1Child5 {
+  position: absolute;
+  top: 1791px;
+  left: 1203px;
+  width: 143.8px;
+  height: 58.5px;
+  object-fit: cover;
+}
+.landingPage1Child4,
+.landingPage1Child5 {
+  left: 774px;
+  width: 163.8px;
+}
+.landingPage1Child5 {
+  left: 570px;
+  width: 153.8px;
+}
+.aaveLogoIcon,
+.groupItem {
+  position: absolute;
+  width: 123.7px;
+}
+.groupItem {
+  top: 0;
+  left: 1.7px;
+  background-color: var(--white);
+  height: 58.5px;
+}
+.aaveLogoIcon {
+  top: 7.5px;
+  left: 0;
+  height: 43.5px;
+  object-fit: cover;
+}
+.landingPage1Child6,
+.rectangleParent {
+  position: absolute;
+  top: 1791px;
+  left: 171px;
+  width: 125.4px;
+  height: 58.5px;
+}
+.landingPage1Child6 {
+  left: 972px;
+  width: 188.9px;
+  object-fit: cover;
+}
+.landingPage1 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 9916px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkgray);
+  font-family: var(--label-01);
+}
